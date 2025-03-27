@@ -1,4 +1,4 @@
-# SPRING 4. TYPESCRIPT I API - S4.API
+# TYPESCRIPT I API - Joke generator con API
 ## Descripción del proyecto:
 
 Este proyecto es una aplicación web para una empresa de coaching que muestra chistes aleatorios y permite a los usuarios calificarlos. Además, incluye información meteorológica en tiempo real de Barcelona, proporcionada a través de una API de clima. La aplicación cambia dinámicamente el fondo para cada chiste, haciendo la experiencia más visual y amena. Los datos de calificación de los chistes son registrados y almacenados en un array para un posible análisis futuro.
@@ -41,13 +41,13 @@ Para instalar este proyecto localmente:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/danilly7/s4.Typescript_i_API.git
+   git clone https://github.com/danilly7/joke-generator.git
    ``` 
    
 2. Navega a la carpeta del proyecto:
 
    ```bash
-   cd s4.Typescript_i_API
+   cd joke-generator
    ```
 
 3. Abrir el archivo HTML `index.html` y visualizar el proyecto en el navegador de preferencia.
